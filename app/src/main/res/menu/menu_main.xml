@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_add_deck" android:title="@string/add_deck"
+        android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/action_delete_deck" android:title="@string/delete_all_decks"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>
